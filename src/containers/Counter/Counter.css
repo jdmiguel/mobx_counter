@@ -1,0 +1,21 @@
+.controlContainer{
+    margin: 20px 0 25px 0;
+}
+
+button{
+    padding: 15px;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: #b7b5d6;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    margin: 16px;
+    cursor: pointer;
+    transition: all .25s ease-out;
+}
+
+button:hover{
+    transform: scale(.95);
+}
